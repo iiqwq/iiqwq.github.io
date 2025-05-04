@@ -16,7 +16,7 @@ timezone:
 
 title: iiqwq # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: I dont know what to write
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -107,7 +107,7 @@ social_preview_image: # string, local or CORS resources
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-comments:
+comments: true
   # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: # [disqus | utterances | giscus]
   # The provider options are as follows:
