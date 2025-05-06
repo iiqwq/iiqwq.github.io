@@ -12,9 +12,6 @@ order: 4
 从现在开始（2025年5月6日），Incentive 披风（原先叫做Common 披风）可以获取了！
 
 ## 介绍
-以下为来自Minecaft Wiki的图片: 
-
-![IncentiveCape](https://minecraft.wiki/w/File:CharacterCreatorCommonCape.png "IncentiveCape")
 
 此披风的占位符纹理可在 Bedrock Edition 游戏文件中找到。游戏文件中的文字写着“使用您的 Microsoft 帐户登录，选择一件免费的披风永久保留！
 
@@ -25,6 +22,8 @@ order: 4
 **说简单点的：你打开基岩版并登录就行了！**
 
 活动时间：**2025年5月6日--2026年5月6日**
+
+> :warning:**位于东八区的玩家需要等到5月7日凌晨0点才可获取。（例如中国大陆）**
 
 只要你在这一年间上过一次Minecraft基岩版，就可以领到！
 
