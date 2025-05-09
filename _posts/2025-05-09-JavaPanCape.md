@@ -1,6 +1,6 @@
 ---
 title: Minecraft 大披肩披风（The Pan Cape）现已同步到Java版！
-date: 2025-05-03 21:48:00 +0800
+date: 2025-05-09 18:59:00 +0800
 categories: [Minecraft 披风]
 tags: [游戏]     # TAG names should always be lowercase
 description: Minecraft 大披肩披风（The Pan Cape）现已同步到Java版！
