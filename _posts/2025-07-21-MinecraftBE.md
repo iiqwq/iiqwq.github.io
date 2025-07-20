@@ -2,7 +2,7 @@
 title: 如何注册Xbox账户、安装Minecraft 基岩版并登录
 date: 2025-07-21 00:06:00 +0800
 categories: [Minecraft]
-tags: [Minecraft]     # TAG names should always be lowercase
+tags: [游戏]     # TAG names should always be lowercase
 description: 本教程指导你如何注册xbox账户与下载并安装Minecraft 基岩版并登录。
 # the default layout is 'page'
 icon: fas fa-info-circle
