@@ -9,21 +9,21 @@ theme: jekyll-theme-chirpy
 lang: zh-CN
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: iiqwq # the main title
+title: Ciripie # the main title
 
-tagline: 不知道写啥的网站（）
+tagline: 还是不知道写啥的网站（）
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://iiqwq.github.io"
+url: "https://qwq.cccu.xin"
 
 github:
   username: iiqwq # change to your GitHub username
@@ -34,12 +34,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: qwqawa
+  name: Ciripie
   email: i1tl@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/iiqwq # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
